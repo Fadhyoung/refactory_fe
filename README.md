@@ -1,9 +1,9 @@
-# React + Vite
+# Introduction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Refactory fe is a front-end page app for my task T92999 refactory PIP program. This app aim for showing user the interface of this whole app.
 
-Currently, two official plugins are available:
+# Technology
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# refactory_fe
+Typescript, React Js
+
+### Structure
